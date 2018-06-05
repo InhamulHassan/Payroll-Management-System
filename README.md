@@ -20,8 +20,8 @@ Setup:
 1. Execute the 'schema.sql' file in the sql folder.
 2. Open the folder as a netbeans project.
 3. Configure your ODBC data source:
-	- Open ODBC Data Source Administrator
-	- Add a new data source
+	- Open ODBC Data Source Administrator.
+	- Add a new data source.
 	- Choose 'SQL Native Client 11.0' or 'SQL Server' or 'ODBC Driver 11 for SQL Server' as your driver.
 	- Enter the name of the data source as 'SalaryManagementDB'.
 	- Choose your Microsoft SQL Server as the server.
