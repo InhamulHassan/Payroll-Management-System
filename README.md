@@ -9,12 +9,12 @@ Functions:
 - Supports both fixed and hourly salary calculations.
 - Generate indivdual employee pay-slip.
 - Look up employee details and salary details stored in the database.
-- User login capability [with admin access]
+- User login capability [with admin access capabilities].
 - Admin is able to add new users to the system.
 
 Required:
-- Netbeans IDE (7.4+)
-- JDBC/ODBC Driver for Microsoft SQL Server
+- Netbeans IDE (7.4+).
+- JDBC/ODBC Driver for Microsoft SQL Server.
 
 Setup:
 1. Execute the 'schema.sql' file in the sql folder.
