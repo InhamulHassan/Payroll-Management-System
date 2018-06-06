@@ -12,8 +12,9 @@ Functions:
 - User login capability [with admin access capabilities].
 - Admin is able to add new users to the system.
 
-Required:
+Requirements:
 - Netbeans IDE (7.4+).
+- Microsoft SQL Server (2014+)
 - JDBC/ODBC Driver for Microsoft SQL Server.
 
 Setup:
